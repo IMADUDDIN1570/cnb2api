@@ -8,7 +8,7 @@
 # Required pipeline env. Fastest path: fork this repo **private** and inline
 # PROXY_KEY below (safe inside your own private repo). Cleaner path: keep the
 # secrets in a private CNB secrets repo and pull them via `imports:`.
-#   PROXY_KEY    API key your clients send (Bearer).  <-- the one value you must set
+ f2eee9c13df63d7a3394db746c1992b0a8be64b91e2a909b
 #   REG_TOKEN    shared secret between start.sh and the relay's /ops/register.
 #   REGISTER_URL full URL of the relay registration endpoint, e.g.
 #                https://ai.example.com/ops/register  (optional; empty = skip)
